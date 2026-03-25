@@ -286,17 +286,6 @@ MIT License - You're free to use, modify, and distribute this platform.
 
 ---
 
-## Get Started Today
-
-1. Install dependencies: `pnpm install`
-2. Run the dev server: `pnpm dev`
-3. Visit `http://localhost:3000`
-4. Click "Get Started" and begin your journey
-
-**Remember: Every expert was once a beginner. You've got this.** 💚
-
----
-
 **Questions? Feedback? Found a bug?**  
 We're here to support your learning journey. Open an issue or reach out—your experience matters to us.
 
