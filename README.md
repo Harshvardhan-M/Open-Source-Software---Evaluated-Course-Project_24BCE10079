@@ -1,4 +1,4 @@
-Name: Harshvardhan Santosh Magar
+Name: Harshvardhan Santosh Magar,
 Reg. No.: 24BCE10079
 
 # AuditHub: Open Source Audit Learning Platform
